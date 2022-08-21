@@ -1,4 +1,5 @@
 package repo
-func Test() string {
-    return string("Test repo")
+
+func SayHi() string {
+	return string("hello from GitHub")
 }

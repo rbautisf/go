@@ -1,5 +1,5 @@
 package repo
 
-func SayHi() string {
-	return string("Test Repo 3")
+func MethodRepo() string {
+	return string("Test Method Repo")
 }
